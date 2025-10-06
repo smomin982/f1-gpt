@@ -7,6 +7,8 @@
     "build": "next build",
     "start": "next start",
     "seed": "ts-node ./scripts/loadDB.ts",
+    "test-rag": "ts-node ./scripts/test-rag.ts",
+    "validate-rag": "ts-node ./scripts/validate-rag.ts",
     "lint": "eslint"
   },
   "dependencies": {
