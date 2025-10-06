@@ -251,7 +251,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Syed Mohammad Momin**
+**Saad Momin**
 - GitHub: [@smomin982](https://github.com/smomin982)
 - Email: 25100151@lums.edu.pk
 
